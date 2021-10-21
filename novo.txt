@@ -1,2 +1,2 @@
 Arquivo novo.
-Alteração.
+Este é um segundo arquivo.
